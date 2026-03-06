@@ -2,10 +2,13 @@
   "categories": [
     {
       "title": "Nature Flow",
-      "images": [
-        "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/a-professional-photography-style-image-with-a-soft.jpeg"
+      "wallpapers": [
+        {
+          "thumbnail": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/your-image-name.jpeg",
+          "videoUrl": null,
+          "isLive": false
+        }
       ]
     }
-    
   ]
 }
