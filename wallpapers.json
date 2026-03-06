@@ -1,27 +1,17 @@
 {
   "categories": [
     {
-      "title": "Abstract Motion",
+      "title": "Abstract",
       "wallpapers": [
         {
           "thumbnail": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/a-professional-photography-style-image-with-a-soft.jpeg",
-          "videoUrl": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./refs/heads/main/animate.mp4",
-          "isLive": true
+          "videoUrl": null,
+          "isLive": false
         },
         {
           "thumbnail": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/a-professional-photography-style-image-with-a-soft.jpeg",
-          "videoUrl": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./refs/heads/main/animate.mp4",
-          "isLive": true
-        },
-        {
-          "thumbnail": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/a-professional-photography-style-image-with-a-soft.jpeg",
-          "videoUrl": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./refs/heads/main/animate.mp4",
-          "isLive": true
-        },
-        {
-          "thumbnail": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/a-professional-photography-style-image-with-a-soft.jpeg",
-          "videoUrl": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./refs/heads/main/animate.mp4",
-          "isLive": true
+          "videoUrl": null,
+          "isLive": false
         },
         {
           "thumbnail": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/a-professional-photography-style-image-with-a-soft.jpeg",
@@ -31,17 +21,47 @@
       ]
     },
     {
-      "title": "Nature Flow",
+      "title": "Minimal",
       "wallpapers": [
         {
-          "thumbnail": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/animate.mp4",
-          "videoUrl": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/animate.mp4",
-          "isLive": true
+          "thumbnail": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/a-professional-photography-style-image-with-a-soft.jpeg",
+          "videoUrl": null,
+          "isLive": false
         }
       ]
     },
     {
-      "title": "Cyberpunk",
+      "title": "Amoled",
+      "wallpapers": [
+        {
+          "thumbnail": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/a-professional-photography-style-image-with-a-soft.jpeg",
+          "videoUrl": null,
+          "isLive": false
+        }
+      ]
+    },
+    {
+      "title": "Nature",
+      "wallpapers": [
+        {
+          "thumbnail": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/a-professional-photography-style-image-with-a-soft.jpeg",
+          "videoUrl": null,
+          "isLive": false
+        }
+      ]
+    },
+    {
+      "title": "Cyber",
+      "wallpapers": [
+        {
+          "thumbnail": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/a-professional-photography-style-image-with-a-soft.jpeg",
+          "videoUrl": null,
+          "isLive": false
+        }
+      ]
+    },
+    {
+      "title": "Space",
       "wallpapers": [
         {
           "thumbnail": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/a-professional-photography-style-image-with-a-soft.jpeg",
