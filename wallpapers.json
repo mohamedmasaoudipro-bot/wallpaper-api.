@@ -34,9 +34,9 @@
       "title": "Nature Flow",
       "wallpapers": [
         {
-          "thumbnail": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/a-professional-photography-style-image-with-a-soft.jpeg",
-          "videoUrl": null,
-          "isLive": false
+          "thumbnail": null,
+          "videoUrl": "https://github.com/mohamedmasaoudipro-bot/wallpaper-api./raw/9830191749f0855749c29f072440cb57ce86e5b1/animate.mp4",
+          "isLive": true
         }
       ]
     },
