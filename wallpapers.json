@@ -1,10 +1,45 @@
 {
   "categories": [
     {
+      "title": "Abstract Motion",
+      "wallpapers": [
+        {
+          "thumbnail": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/a-professional-photography-style-image-with-a-soft.jpeg",
+          "videoUrl": null,
+          "isLive": false
+        },
+        {
+          "thumbnail": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/a-professional-photography-style-image-with-a-soft.jpeg",
+          "videoUrl": null,
+          "isLive": false
+        }
+      ]
+    },
+    {
       "title": "Nature Flow",
       "wallpapers": [
         {
-          "thumbnail": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/your-image-name.jpeg",
+          "thumbnail": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/a-professional-photography-style-image-with-a-soft.jpeg",
+          "videoUrl": null,
+          "isLive": false
+        }
+      ]
+    },
+    {
+      "title": "Minimalist",
+      "wallpapers": [
+        {
+          "thumbnail": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/a-professional-photography-style-image-with-a-soft.jpeg",
+          "videoUrl": null,
+          "isLive": false
+        }
+      ]
+    },
+    {
+      "title": "Cyberpunk",
+      "wallpapers": [
+        {
+          "thumbnail": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/wallpaper-api./main/a-professional-photography-style-image-with-a-soft.jpeg",
           "videoUrl": null,
           "isLive": false
         }
